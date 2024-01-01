@@ -2,6 +2,7 @@
 ---
 Coding Project for Machine Learning and Artificial Intelligence course at Boston College
 ---
+
 #Authors:
 
 Christy Yung
