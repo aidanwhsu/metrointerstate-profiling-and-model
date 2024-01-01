@@ -1,9 +1,9 @@
 # metrointerstate-profiling-and-model
 ---
 Coding Project for Machine Learning and Artificial Intelligence course at Boston College
----
 
-#Authors:
+---
+Authors:
 
 Christy Yung
 
