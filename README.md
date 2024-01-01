@@ -1,2 +1,18 @@
 # metrointerstate-profiling-and-model
-Profiling and scikit-learn model on the Metro Interstate Traffic Volume dataset 
+---
+Coding Project for Machine Learning and Artificial Intelligence course at Boston College
+---
+#Authors:
+
+Christy Yung
+
+Aidan Hsu
+
+Andrea Shang
+
+---
+
+Profiling work and multiple scikit-learn models trained on the Metro Interstate Traffic Volume dataset,
+
+avaliable at: https://archive.ics.uci.edu/dataset/492/metro+interstate+traffic+volume
+
