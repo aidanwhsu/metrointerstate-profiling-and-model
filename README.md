@@ -1,4 +1,4 @@
-# metrointerstate-profiling-and-model
+# Profiling and model on the Metro Interstate Traffic Volume dataset
 ---
 Coding Project for Machine Learning and Artificial Intelligence course at Boston College
 
